@@ -1,8 +1,8 @@
 # stacymbush.github.io
-My first repo<br>
-https://github.com/stacymbush<br>
-https://stackoverflow.com/users/11660170/stacy-bush<br>
-https://www.linkedin.com/in/stacy-bush-0b35332b/<br>
-https://www.facebook.com/stacysadlerbush<br>
-https://twitter.com/stacysadlerbush<br>
-https://www.instagram.com/stacysadlerbush/<br>
+My first repo
+[Github](https://github.com/stacymbush)
+[StackOverflow](https://stackoverflow.com/users/11660170/stacy-bush)
+[LinkedIn](https://www.linkedin.com/in/stacy-bush-0b35332b/)
+[Facebook](https://www.facebook.com/stacysadlerbush)
+[Twitter](https://twitter.com/stacysadlerbush)
+[Instagram](https://www.instagram.com/stacysadlerbush/)
